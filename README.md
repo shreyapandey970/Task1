@@ -1,2 +1,2 @@
 # SHREYA
- SyncIntern Internship Tasks
+ SyncIntern Internship Task 1
